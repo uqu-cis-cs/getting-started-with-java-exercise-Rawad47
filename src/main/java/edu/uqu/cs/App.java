@@ -13,8 +13,8 @@ package edu.uqu.cs;
  
 class FirstExercise
 {
-    private static void mainMethod( String[] args )
+    private static void main( String[] args )
     {
-        System.out.println( "Hello World!" );
+        System.out.println( "Hello rawad443001373" );
     }
 }
